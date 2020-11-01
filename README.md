@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+:trophy: My Github Stats<br><br>
+![Clever-Fox-300's github stats](https://github-readme-stats.vercel.app/api?username=Clever-Fox-300&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clever-Fox-300&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
